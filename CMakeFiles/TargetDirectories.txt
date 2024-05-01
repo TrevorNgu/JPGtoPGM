@@ -1,0 +1,3 @@
+/home/bark/JPGtoPGM/CMakeFiles/main.dir
+/home/bark/JPGtoPGM/CMakeFiles/edit_cache.dir
+/home/bark/JPGtoPGM/CMakeFiles/rebuild_cache.dir
